@@ -1,16 +1,12 @@
-### Hi there 👋
+### Eaaee, eu sou o Maxwell e será um prazer te conhecer!
 
-<!--
-**Maxwell-Santos/Maxwell-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou em busca do meu primeiro emprego
+- 🌱 Ultimamente estou focado em estudar javascript, e tecnologias front-end
+- 💬 Estou me formando em Desenvolvimento de Sistemas agora no meu terceiro e ultimo ano, junto do ensnino médio.👨‍🎓
+- 📫 Para falar comigo, é só me chamar no max.coding011@gmail.com 😎
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+  <a href="https://github.com/Maxwell-Santos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maxwell-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell-Santos&layout=compact&langs_count=7&theme=dracula"/>
+</div>
