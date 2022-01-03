@@ -2,7 +2,7 @@
 
 - 🔭 Estou em busca do meu primeiro emprego
 - 🌱 Ultimamente estou focado em estudar javascript, e tecnologias front-end
-- 💬 Estou me formando em Desenvolvimento de Sistemas agora no meu terceiro e ultimo ano, junto do ensnino médio.👨‍🎓
+- 💬 À procura de vagas como desenvolvedor front-end
 
 ##
  <div>
