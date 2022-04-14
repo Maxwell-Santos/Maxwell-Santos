@@ -1,8 +1,8 @@
-### Eaaee, eu sou o Maxwell e será um prazer te conhecer!
+### Eaaee, eu sou o Maxwell e será um prazer te conhecer! Estou em busca do meu primeiro emprego como junior, e está mais difícil do que dizem na internet viu... mas isso não me desanima, estudo bastante e estou sempre aprendendo coisas novas. 
+ Após me formar como técnico em Desenvolvimento de Sistemas, me apaixonei pela web, como as coisas tomam formas e cores tudo do jeito que eu quiser, foi paixão a segunda vista.
 
-- 🔭 Estou em busca do meu primeiro emprego
-- 🌱 Ultimamente estou focado em estudar javascript, e tecnologias front-end
-- 💬 À procura de vagas como desenvolvedor front-end
+ 
+ <span style="color: blue; font-size: 1em; border: 0 0 1px 0 solid blue;">Busco uma vaga como desenvolvedor fronted.</span>
 
 ##
  <div>
