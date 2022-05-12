@@ -5,7 +5,7 @@ Após me formar como técnico em Desenvolvimento de Sistemas, me apaixonei pela 
 Aliás, todo mundo gosta de liberdade, seja ela qual for. Eu por exemplo, gosto de desenhar, mas na programação, encontrei oportunidades infinitas de criação, a internet foi uma invenção que veio para mudar e melhorar a vida das pessoas e estou pronto para fazer parte disso.
 
 
- ### Busco uma vaga como desenvolvedor frontend
+ ### Busco uma vaga como desenvolvedor Front-end
 
 ##
  <div>
