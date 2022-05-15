@@ -19,7 +19,7 @@ Aliás, todo mundo gosta de liberdade, seja ela qual for. Eu por exemplo, gosto 
    <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'             width="40px" height="30px"/>
    <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width="40px" height="30px"/>
    <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' width="40px" height="30px"/>
-<!--    <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg'             width="40px" height="30px"/> -->
+   <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'           width="40px" height="30px"/>
   </div>
  
  ##
