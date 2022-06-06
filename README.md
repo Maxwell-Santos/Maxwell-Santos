@@ -20,6 +20,14 @@ Aliás, todo mundo gosta de liberdade, seja ela qual for. Eu por exemplo, gosto 
    <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width="40px" height="30px"/>
    <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' width="40px" height="30px"/>
    <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'           width="40px" height="30px"/>
+  
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a>
   </div>
  
  ##
