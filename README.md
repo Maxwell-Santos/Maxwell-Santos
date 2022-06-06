@@ -14,20 +14,15 @@ Aliás, todo mundo gosta de liberdade, seja ela qual for. Eu por exemplo, gosto 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell-Santos&layout=compact&langs_count=7&theme=react"/>
 </div>
  <br>
- <div>
+ <div align="end">
    <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'           width="40px" height="30px"/>
    <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'             width="40px" height="30px"/>
    <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width="40px" height="30px"/>
    <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' width="40px" height="30px"/>
    <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'           width="40px" height="30px"/>
+   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"width="40"   height="30"/>
+   <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"                     width="40"   height="30"/>
   
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
   </div>
  
  ##
