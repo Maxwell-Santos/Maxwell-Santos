@@ -23,8 +23,11 @@ Após me formar como técnico em Desenvolvimento de Sistemas, me apaixonei pela 
    <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width="40" height="30"/>
    <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' width="40" height="30"/>
    <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'           width="40" height="30"/>
-   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"width="40" height="30"/>
+   
    <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"                    width="40" height="30"/>  
+   <img align="center" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg"                         width="40" height="30"/>
+   <img align="center" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"                            width="40" height="30"/>
+   <img align="center" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"                                width="40" height="30"/>
   </div>
  
 
