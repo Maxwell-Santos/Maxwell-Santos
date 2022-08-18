@@ -1,11 +1,13 @@
 <h1 align="center">Eaee, eu sou o Maxwell 👋</h1> 
 
-### Será um prazer te conhecer! 
-🔭Estou em busca do meu primeiro emprego e minha meta é me ternonar um **Desenvolvedor Frontend**💅🏽💅🏽
+### Será um prazer te conhecer!😄 
+Procurando oportunidades como **Frontend Developer**🔭
 
-Após me formar como técnico em Desenvolvimento de Sistemas, me apaixonei pela web, como as coisas tomam formas e cores tudo do jeito que eu bem entender, é uma liberdade que gosto muito.
+Após me formar como técnico em Desenvolvimento de Sistemas, me apaixonei pela web, como as coisas tomam formas e cores, é uma liberdade que gosto muito :)
 
-**Uma curiosidade minha é que eu gosto de desenhar**, e até que sou bom nisso. Na programação, encontrei oportunidades infinitas de criação, a internet foi uma invenção que veio para mudar e melhorar a vida das pessoas e estou pronto para fazer parte disso.
+🎨**Eu sempre gostei de desenhar**, e na programação, encontrei oportunidades infinitas de criação
+
+💖Com a internet mudando melhorando a vida das pessoas me sinto pronto para fazer parte disso
 
  <div
  style='display: flex;'
@@ -33,8 +35,6 @@ Após me formar como técnico em Desenvolvimento de Sistemas, me apaixonei pela 
 
  
  <div align="end"> 
-  
-  ### Contato
   
    <a href="https://www.facebook.com/profile.php?id=100008836065567" target="_blank">
      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
