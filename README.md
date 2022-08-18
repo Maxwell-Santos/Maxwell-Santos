@@ -7,7 +7,9 @@ Após me formar como técnico em Desenvolvimento de Sistemas, me apaixonei pela 
 
 **Uma curiosidade minha é que eu gosto de desenhar**, e até que sou bom nisso. Na programação, encontrei oportunidades infinitas de criação, a internet foi uma invenção que veio para mudar e melhorar a vida das pessoas e estou pronto para fazer parte disso.
 
- <div>
+ <div
+ style='display: flex;'
+ >
   <a href="https://github.com/Maxwell-Santos">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maxwell-Santos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell-Santos&layout=compact&langs_count=7&theme=react"/>
