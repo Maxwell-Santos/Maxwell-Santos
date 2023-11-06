@@ -1,11 +1,11 @@
 <h1 align="center">Eaee, eu sou o Maxwell 👋</h1> 
 
-### Será um prazer te conhecer!😄 
-Procurando oportunidades como **Frontend Developer**🔭
+### Será um prazer te conhecer!😄
+Atuo com Desenvolvimento Fullstack trainee com Delphi. Mas sempre busco expandir minhas experiências, seja no deselvovimento nativo ou web.
 
 Após me formar como técnico em Desenvolvimento de Sistemas, me apaixonei pela web, como as coisas tomam formas e cores, é uma liberdade que gosto muito :)
 
-🎨**Eu sempre gostei de desenhar**, e na programação, encontrei oportunidades infinitas de criação
+🎨**Eu sempre gostei de criar desenhos**, e na programação, encontrei oportunidades infinitas de criação
 
 💖Com a internet mudando melhorando a vida das pessoas me sinto pronto para fazer parte disso
 
