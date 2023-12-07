@@ -1,9 +1,9 @@
 <h1 align="center">Eaee, eu sou o Maxwell 👋</h1> 
 
 ### Será um prazer te conhecer!😄
-Atuo com Desenvolvimento Fullstack trainee com Delphi. Mas sempre busco expandir minhas experiências, seja no deselvovimento nativo ou web.
+Atuo com Desenvolvimento Fullstack trainee com Delphi e não para de buscar expandir minhas experiências, seja no deselvovimento nativo ou web.
 
-Após me formar como técnico em Desenvolvimento de Sistemas, me apaixonei pela web, como as coisas tomam formas e cores, é uma liberdade que gosto muito :)
+Estou no perído de formação em Desenvolvimento de Software Multiplataforma pela FATEC e também possuo o curso técnico de Desenvolvimento de Sistemas
 
 🎨**Eu sempre gostei de criar desenhos**, e na programação, encontrei oportunidades infinitas de criação
 
@@ -13,7 +13,7 @@ Após me formar como técnico em Desenvolvimento de Sistemas, me apaixonei pela 
  style='display: flex;'
  >
   <a href="https://github.com/Maxwell-Santos">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maxwell-Santos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maxwell-Santos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> -->
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell-Santos&layout=compact&langs_count=7&theme=react"/>
 </div>
  
@@ -23,6 +23,7 @@ Após me formar como técnico em Desenvolvimento de Sistemas, me apaixonei pela 
    <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width="40" height="30"/>
    <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' width="40" height="30"/>
    <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'           width="40" height="30"/>
+   <img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/delphi.svg"                      width="40" height="30"/>
    
    <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"                    width="40" height="30"/>  
    <img align="center" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg"                         width="40" height="30"/>
