@@ -1,13 +1,12 @@
 <h1 align="center">Eaee, eu sou o Maxwell 👋</h1> 
 
 ### Será um prazer te conhecer!😄
-Atuo com Desenvolvimento Fullstack trainee com Delphi e não para de buscar expandir minhas experiências, seja no deselvovimento nativo ou web.
+Atuo como Desenvolvedor Fullstack e estou buscando me especializar no desenolvimento nativo android e web.
 
-Estou no perído de formação em Desenvolvimento de Software Multiplataforma pela FATEC e também possuo o curso técnico de Desenvolvimento de Sistemas
+Estou no perído de formação em Desenvolvimento de Software Multiplataforma pela FATEC e também possuo o curso técnico de Desenvolvimento de Sistemas na ETEC.
 
-🎨**Eu sempre gostei de criar desenhos**, e na programação, encontrei oportunidades infinitas de criação
-
-💖Com a internet mudando melhorando a vida das pessoas me sinto pronto para fazer parte disso
+Muitas pessoas buscam na arte formas de se expressar, e eu encontrei isso na tecnologia.
+Com a tecnologia evoluindo e melhorando a vida das pessoas me sinto pronto para fazer parte disso desse avanço que vivemos todos os dias.
 
  <div
  style='display: flex;'
@@ -30,8 +29,6 @@ Estou no perído de formação em Desenvolvimento de Software Multiplataforma pe
    <img align="center" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"                            width="40" height="30"/>
    <img align="center" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"                                width="40" height="30"/>
   </div>
- 
-
  
  <div align="end"> 
 
