@@ -3,10 +3,10 @@
 ### Será um prazer te conhecer!😄
 Atuo como Desenvolvedor Fullstack e estou buscando me especializar no desenolvimento nativo android e web.
 
-Estou no perído de formação em Desenvolvimento de Software Multiplataforma pela FATEC e também possuo o curso técnico de Desenvolvimento de Sistemas na ETEC.
+Estou no período de formação em Desenvolvimento de Software Multiplataforma pela FATEC e também possuo o curso técnico de Desenvolvimento de Sistemas na ETEC.
 
 Muitas pessoas buscam na arte formas de se expressar, e eu encontrei isso na tecnologia.
-Com a tecnologia evoluindo e melhorando a vida das pessoas me sinto pronto para fazer parte disso desse avanço que vivemos todos os dias.
+Com a tecnologia evoluindo e melhorando a vida das pessoas me sinto pronto para fazer parte desse avanço que vivemos todos os dias.
 
  <div
  style='display: flex;'
